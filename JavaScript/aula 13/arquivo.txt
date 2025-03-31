@@ -1,0 +1,4 @@
+Nome: Leandro
+Idade: 28
+altura: 1.75
+peso: 65
