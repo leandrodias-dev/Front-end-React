@@ -27,6 +27,7 @@ O curso de **Front-end em React** aborda desde os conceitos básicos da Web e su
 ## 📫 Contato
 
 💼 LinkedIn(https://www.linkedin.com/in/leandrooliveiradias/)
+
 📧 E-mail: (leandrodotoni14@gmail.com)
 
 ---
